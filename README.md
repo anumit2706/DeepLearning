@@ -1,5 +1,5 @@
 ChessEngine
-Impleented from scratch using object oriented programming principles. Capable of generating all legal moves in any given position,
+Implemented from scratch using object oriented programming principles. Capable of generating all legal moves in any given position,
 including castling, en-passant and promotion. Uses minimax to find best move. Searches upto depth of 3. Alpha-beta pruning is used
 to boost performance.
 
